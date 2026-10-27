@@ -1,0 +1,12 @@
+../Core/Src/main.c:76:6:ResetBoard	16	static
+../Core/Src/main.c:86:6:GetBoardString	32	static
+../Core/Src/main.c:96:5:CheckWin	24	static
+../Core/Src/main.c:110:5:CheckDraw	16	static
+../Core/Src/main.c:117:6:SendResponse	96	static
+../Core/Src/main.c:123:6:HandleCommand	160	static
+../Core/Src/main.c:215:5:main	16	static
+../Core/Src/main.c:307:6:SystemClock_Config	104	static
+../Core/Src/main.c:350:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:373:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:402:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:426:6:Error_Handler	8	static,ignoring_inline_asm

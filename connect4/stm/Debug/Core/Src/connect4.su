@@ -1,0 +1,7 @@
+../Core/Src/connect4.c:3:13:clear_board	24	static
+../Core/Src/connect4.c:11:6:c4_init	16	static
+../Core/Src/connect4.c:20:6:c4_new_game	16	static
+../Core/Src/connect4.c:29:12:count_direction	32	static
+../Core/Src/connect4.c:44:6:c4_is_winning_move	64	static
+../Core/Src/connect4.c:63:11:c4_move	48	static
+../Core/Src/connect4.c:104:6:c4_encode_board	32	static

@@ -1,0 +1,6 @@
+../Core/Src/core.c:5:6:core_init	16	static
+../Core/Src/core.c:12:6:core_rx_byte	24	static
+../Core/Src/core.c:20:13:handle_event	104	static
+../Core/Src/core.c:36:6:core_step	40	static
+../Core/Src/core.c:46:6:core_button	16	static
+../Core/Src/core.c:47:6:core_led	16	static

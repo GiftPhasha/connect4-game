@@ -1,0 +1,5 @@
+../Core/Src/app.c:24:6:HAL_UART_RxCpltCallback	2
+../Core/Src/app.c:33:6:HAL_UART_ErrorCallback	2
+../Core/Src/app.c:44:13:tx	1
+../Core/Src/app.c:51:6:app_init	1
+../Core/Src/app.c:64:6:app_poll	7

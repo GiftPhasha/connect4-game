@@ -1,0 +1,5 @@
+../Core/Src/app.c:24:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/app.c:33:6:HAL_UART_ErrorCallback	16	static
+../Core/Src/app.c:44:13:tx	24	static
+../Core/Src/app.c:51:6:app_init	16	static
+../Core/Src/app.c:64:6:app_poll	16	static

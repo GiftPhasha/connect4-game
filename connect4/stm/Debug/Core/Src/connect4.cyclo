@@ -1,0 +1,7 @@
+../Core/Src/connect4.c:3:13:clear_board	3
+../Core/Src/connect4.c:11:6:c4_init	2
+../Core/Src/connect4.c:20:6:c4_new_game	2
+../Core/Src/connect4.c:29:12:count_direction	6
+../Core/Src/connect4.c:44:6:c4_is_winning_move	3
+../Core/Src/connect4.c:63:11:c4_move	14
+../Core/Src/connect4.c:104:6:c4_encode_board	5
